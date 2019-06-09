@@ -1,4 +1,6 @@
 # termodaq_firmware_attiny85
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmc-ireiser%2Ftermodaq_firmware_attiny85.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmc-ireiser%2Ftermodaq_firmware_attiny85?ref=badge_shield)
+
 
 Firmware termoDaQ para el microcontrolador ATtiny85
 
@@ -47,3 +49,6 @@ Opciones de compilación cambiadas, reconstruyendo todo
 El Sketch usa 1932 bytes (23%) del espacio de almacenamiento de programa. El máximo es 8192 bytes.
 Las variables Globales usan 20 bytes (3%) de la memoria dinámica, dejando 492 bytes para las variables locales. El máximo es 512 bytes.
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmc-ireiser%2Ftermodaq_firmware_attiny85.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmc-ireiser%2Ftermodaq_firmware_attiny85?ref=badge_large)

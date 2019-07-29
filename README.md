@@ -32,13 +32,13 @@ https://github.com/SpenceKonde/ATTinyCore/blob/master/Installation.md
 
 ### Configure su IDE
 
-+ Herramientas > Placa: "ATtiny25/45/85"
+  Herramientas > Placa: "ATtiny25/45/85"
 
-+ Herramientas > Chip: "ATtiny85"
+  Herramientas > Chip: "ATtiny85"
 
-+ Herramientas > Clock: "16Mhz (external)"
+  Herramientas > Clock: "16Mhz (external)"
 
-+ Herramientas > Programador: "USBtityISP (ATTinyCore)"
+  Herramientas > Programador: "USBtityISP (ATTinyCore)"
 
 ### Compilar
 

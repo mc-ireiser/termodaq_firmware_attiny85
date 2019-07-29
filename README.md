@@ -1,5 +1,6 @@
 # termodaq_firmware_attiny85
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8c47ff9dca544d889fdfc33aea2cdfe1)](https://app.codacy.com/app/mc.ireiser/termodaq_firmware_attiny85?utm_source=github.com&utm_medium=referral&utm_content=mc-ireiser/termodaq_firmware_attiny85&utm_campaign=Badge_Grade_Dashboard)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmc-ireiser%2Ftermodaq_firmware_attiny85.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmc-ireiser%2Ftermodaq_firmware_attiny85?ref=badge_shield)
 
 Firmware termoDaQ para el microcontrolador ATtiny85

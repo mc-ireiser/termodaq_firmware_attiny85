@@ -5,9 +5,10 @@ int count = 0;
 int t_min = 0;
 int potValue = 0;
 int intervalValue = 0;
-const int transistor = 0;
-const int analogIn = A1;
-volatile int pcint_value=1;
+volatile int pcint_value= 1;
+
+#define transistor 0
+#define analogIn A1
 
 #ifndef sbi
 #define sbi(sfr, bit) (_SFR_BYTE(sfr) |= _BV(bit))
@@ -74,7 +75,9 @@ void loop()
     while(pcint_value){
       // espera
     }
+    
     digitalWrite(transistor, LOW);
+    
     pcint_value = 1;
     t_min = 0;
   }
